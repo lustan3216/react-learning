@@ -1,0 +1,14 @@
+.text-blue {
+  color: blue;
+}
+
+.text-white {
+  color: white;
+}
+
+.title {
+  display: inline-block;
+  color: white;
+  background-color: red;
+  font-size: 40px;
+}
